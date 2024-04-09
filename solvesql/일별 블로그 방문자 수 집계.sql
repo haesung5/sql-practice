@@ -1,4 +1,4 @@
-https://solvesql.com/problems/blog-counter/
+-- https://solvesql.com/problems/blog-counter/
 
 -- 일자별 user id로 방문자 수를 집계 
 -- 단, 같은 일자에 중복된 데이터 개수는 distinct로 제거
