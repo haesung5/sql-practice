@@ -1,4 +1,4 @@
-https://solvesql.com/problems/join/
+-- https://solvesql.com/problems/join/
 
 -- records table과 events table에서 같은 id의 데이터 중
 -- events table의 sport colum이 Golf인 data만 출력
